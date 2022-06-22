@@ -1,7 +1,7 @@
 import type { NextPage } from 'next'
 import Heads from '@components/Head'
 
-const Contact: NextPage = () => {
+const About: NextPage = () => {
 	return (
 		<>
 			<Heads
@@ -15,4 +15,4 @@ const Contact: NextPage = () => {
 	)
 }
 
-export default Contact
+export default About

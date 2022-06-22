@@ -5,6 +5,7 @@
 		"paths": {
 			"@pages/*": ["./pages/*"],
 			"@components/*": ["./components/*"],
+			"@styled-components/*": ["./styled-components/*"],
 			"@styles/*": ["./styles/*"]
 		},
 		"lib": ["dom", "dom.iterable", "esnext"],
