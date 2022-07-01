@@ -29,7 +29,7 @@ export const Nav = styled.nav`
 
 export const InputSearch = styled.div`
 	position: relative;
-	margin-top: -8px;
+	margin-top: -9px;
 	input {
 		width: 100%;
 		padding: 10px 10px 10px 50px;
